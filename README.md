@@ -30,26 +30,34 @@ Como fonte de dados, foram utilizadas bases de dados públicas de 2021 a outubro
 <li> Scikit-Learn e TensorFlow: aplicação do modelo de deep learning. </li>
 <li> Scikit-Learn (KMeans): clusterização. </li>
 
-#### Resultados
+#### Alguns resultados
 
 :earth_americas: Mapa de São Leopoldo
 
-![foto](/MapaSL.jpg)
+<p align="center">
+  <img src="MapaSL.jpg" width="400" height="500" />
+</p>
 </br></br>
 
 :chart_with_downwards_trend: Porcentagem de ocorrências por bairro
 
-![foto](/PorcentagemCrimesCometidos_PorBairro.JPG)
+<p align="center">
+  <img src="PorcentagemCrimesCometidos_PorBairro.JPG"/>
+</p>
 </br></br>
 
 :chart_with_downwards_trend: Total de ocorrências por tipo
 
-![foto](/TotalOcorrencias_PorTipo.jpg)
+<p align="center">
+  <img src="TotalOcorrencias_PorTipo.jpg"/>
+</p>
 </br></br>
 
 :chart_with_downwards_trend: Nuvem de palavras dos bairros com maior incidência de casos de Importunação e Assédio
 
-![foto](/NuvemPalavras_ImportunacaoAssedio.JPG)
+<p align="center">
+  <img src="NuvemPalavras_ImportunacaoAssedio.JPG" width="450" height="350" />
+</p>
 </br></br>
 
 :chart_with_downwards_trend: Após aplicação do modelo de deep learning - Bairros classificados como Muito Inseguros
@@ -57,6 +65,11 @@ Como fonte de dados, foram utilizadas bases de dados públicas de 2021 a outubro
 ![foto](/Deep_MuitoInseguro.jpg)
 </br></br>
 
+:chart_with_downwards_trend: Após a clusterização - Distribuição dos dados de Idade e Clusterização nos casos de ocorrências de Lesão Corporal 
 
+![foto](/DistribuicaoIdade.jpg)
+</br>
 
-
+<p align="center">
+  <img src="Clusterizacao_LesaoCorporal.jpg" width="500" height="300" />
+</p>
