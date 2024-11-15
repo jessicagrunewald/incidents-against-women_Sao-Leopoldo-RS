@@ -47,5 +47,16 @@ Como fonte de dados, foram utilizadas bases de dados públicas de 2021 a outubro
 ![foto](/TotalOcorrencias_PorTipo.jpg)
 </br></br>
 
+:chart_with_downwards_trend: Nuvem de palavras dos bairros com maior incidência de casos de Importunação e Assédio
+
+![foto](/NuvemPalavras_ImportunacaoAssedio.JPG)
+</br></br>
+
+:chart_with_downwards_trend: Após aplicação do modelo de deep learning - Bairros classificados como Muito Inseguros
+
+![foto](/Deep_MuitoInseguro.jpg)
+</br></br>
+
+
 
 
